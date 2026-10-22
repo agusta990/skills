@@ -1,6 +1,6 @@
 ---
 name: domain-modeling
-description: Build and sharpen a project's domain model. Use when discussing codebase terminology, writing or editing a GLOSSARY.md, or recording or editing an ADR.
+description: Build and sharpen a project's domain model. Use when resolving project terminology, writing or editing a GLOSSARY.md, recording an ADR, or when another active skill requests domain modeling. Do not use for passive glossary reading.
 ---
 
 # Domain Modeling
@@ -38,6 +38,8 @@ If a `GLOSSARY-MAP.md` exists at the root, the repo has multiple contexts. The m
 ```
 
 Create files lazily: only when you have something to write. If no `GLOSSARY.md` exists, create one when the first term is resolved. If no `docs/adr/` exists, create it when the first ADR is needed.
+
+If the current request is read-only or excludes changes to this repository, discuss proposed glossary terms and ADRs without writing files.
 
 ## During the session
 
