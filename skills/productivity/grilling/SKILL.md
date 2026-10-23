@@ -1,6 +1,6 @@
 ---
 name: grilling
-description: 持續追問使用者的計畫、決策或構想。當使用者想檢驗自己的想法，或使用「grill」「追問我」等觸發語時使用。
+description: 持續追問使用者的計畫、決策或構想，直到雙方達成共同理解。Grill the user relentlessly about a plan, decision, or idea until you reach a shared understanding. 當使用者想檢驗自己的想法，或說「追問我」「先追問」「grill」「grill me」「stress-test」等觸發語時使用。Use when the user wants to stress-test their thinking or uses any 'grill' trigger phrase.
 ---
 
 持續訪談使用者，直到雙方達成共同理解。將過程整理成一棵**決策樹**：每個決策都會延伸出依賴它的其他決策。

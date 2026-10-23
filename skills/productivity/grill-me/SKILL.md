@@ -1,6 +1,6 @@
 ---
 name: grill-me
-description: 透過持續追問，釐清並打磨計畫或設計。
+description: 透過持續追問，釐清並打磨計畫或設計。A relentless interview to sharpen a plan or design.
 disable-model-invocation: true
 ---
 
